@@ -34,6 +34,7 @@ This game allows players to:
 ## Gameplay
 
 ### Locations
+
 - Town Square: The central location with options to go to the store, cave, or fight the dragon.
 - Store: Players can buy health or weapons.
 - Cave: Players can fight weaker monsters like slime and fanged beast.
@@ -44,6 +45,7 @@ This game allows players to:
 - Easter Egg: A secret game with a number guessing challenge.
 
 ### Actions
+
 - Attack: Engage a monster in combat.
 - Dodge: Attempt to avoid a monster's attack.
 - Run: Escape from the fight.
