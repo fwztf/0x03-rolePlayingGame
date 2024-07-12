@@ -1,5 +1,5 @@
 # rolePlayingGame
-The third project under the FCC JS algorithms and data structures curriculum
+The third project under the FCC JS algorithms and data structures curriculum.
 This project is a text-based role-playing game where players can explore locations, fight monsters, and manage their inventory and health.
 
 ## Table of Contents
@@ -8,9 +8,9 @@ This project is a text-based role-playing game where players can explore locatio
 #### [Getting Started](#getting-started)
 #### [Gameplay](#gameplay)
 #### [Functions](#functions)
-#### [Code](#code)
 
 ## Overview
+
 This game allows players to:
 - Navigate between different locations (town square, store, cave).
 - Buy health and weapons.
@@ -19,17 +19,20 @@ This game allows players to:
 - Win by defeating the dragon or lose by running out of health.
 
 ## Features
+
 - Dynamic Interface: The game updates the interface based on the player's actions.
 - Inventory Management: Players can buy, sell, and use weapons.
 - Combat System: Players can attack, dodge, and run from monsters.
 - Easter Egg: A hidden game where players can win additional gold.
 
 ## Getting Started
+
 - Clone the repository.
 - Open index.html in a web browser.
 - Use the buttons to navigate and interact with the game.
 
 ## Gameplay
+
 ### Locations
 - Town Square: The central location with options to go to the store, cave, or fight the dragon.
 - Store: Players can buy health or weapons.
@@ -46,6 +49,7 @@ This game allows players to:
 - Run: Escape from the fight.
 
 ### Functions
+
 #### Core Functions
 - update(location): Updates the game interface based on the current location.
 - goTown(): Navigates to the town square.
