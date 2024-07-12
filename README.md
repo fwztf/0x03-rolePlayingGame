@@ -3,12 +3,12 @@ The third project under the FCC JS algorithms and data structures curriculum
 This project is a text-based role-playing game where players can explore locations, fight monsters, and manage their inventory and health.
 
 ## Table of Contents
-### [Overview](#Overview)
-### [Features](#Features)
-### [Getting Started](#Getting Started)
-### [Gameplay](#Gameplay)
-### [Functions](#Functions)
-### [Code](#Code)
+#### [Overview](#overview)
+#### [Features](#features)
+#### [Getting Started](#getting-started)
+#### [Gameplay](#gameplay)
+#### [Functions](#functions)
+#### [Code](#code)
 
 ## Overview
 This game allows players to:
