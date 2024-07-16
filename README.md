@@ -1,5 +1,4 @@
 # rolePlayingGame
-The third project under the FCC JS algorithms and data structures curriculum.
 This project is a text-based role-playing game where players can explore locations, fight monsters, and manage their inventory and health.
 
 ## Table of Contents
